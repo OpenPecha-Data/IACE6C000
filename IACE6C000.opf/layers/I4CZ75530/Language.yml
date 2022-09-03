@@ -1,0 +1,99 @@
+id: 3646b02ffb2e4f8694ff701c0501dd9a
+annotation_type: Language
+revision: '00001'
+annotations:
+  3e9ec5346aa44be08e27ed3fabc9d5cf:
+    span:
+      start: 39
+      end: 172
+    language: en
+  9f29622b9de041c3bdd31378c636dd48:
+    span:
+      start: 240
+      end: 325
+    language: en
+  599d1c88a44743e6a69b2d34842a3a80:
+    span:
+      start: 352
+      end: 672
+    language: en
+  b31a8b9837644244b3ff60be3233b94d:
+    span:
+      start: 712
+      end: 770
+    language: en
+  cfa23a74471549108c7b7dfbbf138159:
+    span:
+      start: 3020
+      end: 3089
+    language: en
+  37ccffef090449eaaf6daf871b29f96c:
+    span:
+      start: 6297
+      end: 6375
+    language: en
+  a6f08f33299841d782ad89f12be9d7fa:
+    span:
+      start: 15977
+      end: 16017
+    language: en
+  f3c06b7c502e43fbbd65ac54e05ae9fa:
+    span:
+      start: 17689
+      end: 17759
+    language: en
+  71f5f9463f7646df803e0aab2be398f4:
+    span:
+      start: 22045
+      end: 22104
+    language: en
+  19492ecd6a5542b9bc0fc43ea685b169:
+    span:
+      start: 29276
+      end: 29358
+    language: en
+  07beddd46a394b4d9f26fd4ff60c9020:
+    span:
+      start: 32088
+      end: 32154
+    language: en
+  b32edabf8d7b4494b266bf7e3354e55b:
+    span:
+      start: 58632
+      end: 58653
+    language: en
+  c0a913adbe1d44b68c9da08efa9b5606:
+    span:
+      start: 66365
+      end: 66422
+    language: en
+  dc51662029a24de7b25c43f99eb5acc8:
+    span:
+      start: 74614
+      end: 74685
+    language: en
+  38d0e72047cf4f9ea87b6a5f1f4374c2:
+    span:
+      start: 75590
+      end: 75622
+    language: en
+  f31035964c614ba89a62afe9862f6a18:
+    span:
+      start: 78311
+      end: 78371
+    language: en
+  5238d12014114c9fb2bd354714549364:
+    span:
+      start: 92725
+      end: 92780
+    language: en
+  24887a9e8722428bae17aadda67a3c19:
+    span:
+      start: 98841
+      end: 98932
+    language: en
+  634db1fbb55945ea9e830be9e8197f77:
+    span:
+      start: 99783
+      end: 99873
+    language: en
